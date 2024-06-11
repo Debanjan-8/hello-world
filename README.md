@@ -8,8 +8,11 @@
 🌟 Why Follow Me?
 
 Innovative Projects: I love working on cutting-edge projects that combine my engineering background with data science techniques.
+
 Continuous Learning: I'm constantly learning new skills and technologies, and I enjoy sharing my journey and discoveries.
+
 Collaborative Spirit: I believe in the power of collaboration and am always open to connecting with like-minded professionals and contributing to exciting open-source projects.
+
 📫 Let's Connect: Whether you're interested in discussing engineering, data science, or potential collaborations, feel free to reach out!
 
 🔗 Find Me Elsewhere: www.linkedin.com/in/debanjan502
